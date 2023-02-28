@@ -1,5 +1,7 @@
 # dr-quine
-https://cdn.intra.42.fr/pdf/pdf/34050/en.subject.pdf
+42 school [subject](https://cdn.intra.42.fr/pdf/pdf/34050/en.subject.pdf).
+
+Create quine programs in C as an introduction to the concept of virus propagation in cybersecurity. 
 
 ### Explanation
 A quine is a program that outputs its own content.<br>
@@ -19,6 +21,6 @@ Outputs its content in another file.
 The program creates a new file, writes its own content into that file and executes the file, leading to the creation of another file who also created another file and so on,  leading to a self-replicating program which is useful for viruses to propagate.
 
 ### DOCUMENTATION
-Self-replicating Python code | Quine: https://www.youtube.com/watch?v=a-zEbokJAgY<br>
-what does print(s%%s) mean here?: https://stackoverflow.com/questions/28145588/what-does-printss-mean-here<br>
-Imprimer le code source du code C sans aucune entrée | Quiné: https://www.youtube.com/watch?v=VaGl_HZBIoM&t=634s<br>
+[Self-replicating Python code | Quine](https://www.youtube.com/watch?v=a-zEbokJAgY)<br>
+[what does print(s%%s) mean here?](https://stackoverflow.com/questions/28145588/what-does-printss-mean-here)<br>
+[Imprimer le code source du code C sans aucune entrée | Quiné](https://www.youtube.com/watch?v=VaGl_HZBIoM&t=634s)<br>
