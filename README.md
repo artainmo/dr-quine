@@ -1,5 +1,5 @@
 # dr-quine
-42 school [subject](https://cdn.intra.42.fr/pdf/pdf/34050/en.subject.pdf)
+42 school [subject](https://cdn.intra.42.fr/pdf/pdf/34050/en.subject.pdf).
 
 Create quine programs in C as an introduction to the concept of virus propagation in cybersecurity. 
 
